@@ -8,7 +8,7 @@ import com.example.demo.model.Stocks;
 import com.example.demo.model.StocksDAO;
 
 
-@Component
+//@Component
 public class Ex4TestHibernateStocks implements CommandLineRunner{
 	
 	private StocksDAO stocksDAO;
